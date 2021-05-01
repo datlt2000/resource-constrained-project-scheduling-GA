@@ -1,0 +1,1 @@
+FILE_PATH=".\\j60rcp\\J6010_1.RCP"
