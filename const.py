@@ -1,1 +1,1 @@
-FILE_PATH=".\\j60rcp\\J6010_1.RCP"
+FILE_PATH=".\\j60rcp\\J601_7.RCP"
